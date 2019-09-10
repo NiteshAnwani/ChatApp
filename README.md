@@ -1,2 +1,2 @@
 # ChatApp
-web based chatting application in Java Spring
+web based chatting application in Java Spring Boot
